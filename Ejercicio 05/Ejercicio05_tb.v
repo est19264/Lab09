@@ -1,6 +1,6 @@
-// Marco Duarte
-// TestBench
-// Ejercicio 05
+//Laboratorio 09 Electronica Digital
+//Diego Esrada 19264
+// Ejercicio 05 Testbench
 
 module testbench();
 

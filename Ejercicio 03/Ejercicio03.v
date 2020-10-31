@@ -1,4 +1,4 @@
-//Laboratorio 09 Electronica General
+//Laboratorio 09 Electronica Digital
 //Diego Esrada 19264
 // Ejercicio 03
 
